@@ -1,2 +1,4 @@
 # AIIntro
- Codes for AIIntro class
+《人工智能引论》课程的代码。
+
+可任意自取，但请遵守GPL-v3协议。
