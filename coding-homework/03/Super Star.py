@@ -31,7 +31,7 @@ def main():
             nz = random.random() * 100
             T = 100 * math.sqrt(3)
 
-            while T > 1e-8:
+            while T > 1e-7:
                 ans, gx, gy, gz = calc(nx,ny,nz,pts)
                 gans = min(gans, ans)
                 nx -= gx * T
